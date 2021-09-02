@@ -1,3 +1,6 @@
+Forked from [timeout-abort-controller](https://www.npmjs.com/package/timeout-abort-controller). The only change was to upgrade retimer from v2.0.0 to v3.0.0.
+
+
 # timeout-abort-controller
 
 [![Build Status](https://travis-ci.com/jacobheun/timeout-abort-controller.svg?branch=master)](https://travis-ci.com/jacobheun/timeout-abort-controller) [![dependencies Status](https://david-dm.org/jacobheun/timeout-abort-controller/status.svg)](https://david-dm.org/jacobheun/timeout-abort-controller) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)

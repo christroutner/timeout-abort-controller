@@ -1,6 +1,6 @@
 {
-  "name": "timeout-abort-controller",
-  "version": "1.1.1",
+  "name": "@chris.troutner/timeout-abort-controller",
+  "version": "2.0.0",
   "description": "An AbortController that aborts after a specified timeout",
   "main": "index.js",
   "files": [
@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "abort-controller": "^3.0.0",
-    "retimer": "^2.0.0"
+    "retimer": "^3.0.0"
   },
   "devDependencies": {
     "delay": "^4.3.0",
@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jacobheun/timeout-abort-controller.git"
+    "url": "git+https://github.com/christroutner/timeout-abort-controller.git"
   },
   "bugs": {
-    "url": "https://github.com/jacobheun/timeout-abort-controller/issues"
+    "url": "https://github.com/christroutner/timeout-abort-controller/issues"
   },
-  "homepage": "https://github.com/jacobheun/timeout-abort-controller#readme"
+  "homepage": "https://github.com/christroutner/timeout-abort-controller#readme"
 }
